@@ -213,6 +213,170 @@ return [
                 "Joëlle Jones"
             ],
         ],
+    ],
+    'links' =>[
+        [
+            'title' => 'Characters',
+            'url' => '#'
+        ],
+        [
+            'title' => 'Comics',
+            'url' => '#'
+        ],
+        [
+            'title' => 'Movies',
+            'url' => '#'
+        ],
+        [
+            'title' => 'Tv',
+            'url' => '#'
+        ],
+        [
+            'title' => 'Games',
+            'url' => '#'
+        ],
+        [
+            'title' => 'Collectibles',
+            'url' => '#'
+        ],
+        [
+            'title' => 'Videos',
+            'url' => '#'
+        ],
+        [
+            'title' => 'Fans',
+            'url' => '#'
+        ],
+        [
+            'title' => 'News',
+            'url' => '#'
+        ],
+        [
+            'title' => 'Shop',
+            'url' => '#'
+        ]
+    ],
+    'footerLinks' => [
+            [
+                "title" => "Dc Comics",
+                "links" => [
+                    [
+                        "title" => "Characters",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "Comics",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "Movies",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "TV",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "Games",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "Videos",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "News",
+                        "url" => "#"
+                    ]
+                ]
+            ],
+            [
+                "title" => "Shop",
+                "links" => [
+                    [
+                        "title" => "Shop DC",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "Shop DC Collectibles",
+                        "url" => "#"
+                    ]
+                ]
+            ],
+            [
+                "title" => "Dc",
+                "links" => [
+                    [
+                        "title" => "Terms of Use",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "Privacy Policy (New)",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "Ad Choices",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "Advertising",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "Jobs",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "Subscriptions",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "Talent Workshops",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "CPSC Certificates",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "Ratings",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "Shop Help",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "Contact Us",
+                        "url" => "#"
+                    ]
+                ]
+            ],
+            [
+                "title" => "Sites",
+                "links" => [
+                    [
+                        "title" => "DC",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "MAD Magazine",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "DC Kids",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "DC Universe",
+                        "url" => "#"
+                    ],
+                    [
+                        "title" => "DC Power Visa",
+                        "url" => "#"
+                    ]
+                ]
+            ]
     ]
 ];
 

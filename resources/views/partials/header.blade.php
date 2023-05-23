@@ -1,14 +1,8 @@
-<header class="bg-white">
-    <div id="main-menu">
-        <nav class="navbar-nav container navbar-light">
-            <ul class="list-unstyled d-flex justify-content-center gap-2 text-uppercase">
-                <li class="nav-item">
-                    <a class="nav-link {{ Route::currentRouteName() == 'home' ? 'active' : '' }}"
-                        href="{{ route('home') }}">
-                        Home
-                    </a>
-                </li>
-            </ul>
-        </nav>
-    </div>
+<header class="d-flex container justify-content-between align-items-center my-0">
+      <img src="{{URL::asset('/images/dc-logo.png')}}" alt="dc logo">
+      <div class="d-flex gap-5">
+        @foreach ($links as $link)
+            <a href={{$link['url']}}> {{$link['title']}} </a>
+        @endforeach
+      </div>
 </header>
